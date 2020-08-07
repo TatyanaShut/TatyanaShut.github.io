@@ -1,14 +1,26 @@
 {
-    "webcredentials": {
-        "apps": ["PS75GJNT26.com.vityaz-aero"]
-    },
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "PS75GJNT26.com.vityaz-aero",
-            "paths": [
-                "https://github.com/TatyanaShut/TatyanaShut.github.io/*"
-            ]
-        }]
-    }
+		"webcredentials": {
+				"apps": [
+						"PS75GJNT26.com.vityaz-aero"
+				]
+		},
+		"applinks": {
+				"apps": [],
+				"details": [
+						{
+								"appID": "PS75GJNT26.com.vityaz-aero",
+								"paths": [
+										"/pay"
+								],
+								"appIDs": [
+										"PS75GJNT26.com.vityaz-aero"
+								],
+								"components": [
+										{
+												"/": "/apple-app-site-association"
+										}
+								]
+						}
+				]
+		}
 }
