@@ -4,10 +4,19 @@
     "details": [
       {
         "appID": "PS75GJNT26.com.vityaz-aero",
+	"components": [
+	{
+	 "#": "no_universal_links",
+       	 "exclude": true,
+       	 "comment": "Matches any URL whose fragment equals no_universal_
+	}]
         "paths": [
           "https://github.com/TatyanaShut/TatyanaShut.github.io/*"
         ]
       }
     ]
-  }
+  },
+	"webcredentials": {
+      	"apps": [ "PS75GJNT26.com.vityaz-aero" ]
+   }
 }
