@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "PS75GJNT26.com.vityaz-aero",
-                "paths": [ "*" ]
+                "paths": [ "http://vityaz-aero.ru/api/user/confirmEmail/" ]
             }
         ]
     }
